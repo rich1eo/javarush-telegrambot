@@ -1,9 +1,9 @@
 package com.github.javarushcommunity.jrtb.javarushclient;
 
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupDiscussionInfo;
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupInfo;
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupRequestArgs;
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupsCountRequestArgs;
+import com.github.javarushcommunity.jrtb.dto.GroupDiscussionInfo;
+import com.github.javarushcommunity.jrtb.dto.GroupInfo;
+import com.github.javarushcommunity.jrtb.dto.GroupRequestArgs;
+import com.github.javarushcommunity.jrtb.dto.GroupsCountRequestArgs;
 
 import java.util.List;
 

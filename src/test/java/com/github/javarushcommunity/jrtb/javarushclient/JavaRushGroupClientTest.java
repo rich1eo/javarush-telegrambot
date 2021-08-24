@@ -1,16 +1,16 @@
 package com.github.javarushcommunity.jrtb.javarushclient;
 
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupDiscussionInfo;
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupInfo;
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupRequestArgs;
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupsCountRequestArgs;
+import com.github.javarushcommunity.jrtb.dto.GroupDiscussionInfo;
+import com.github.javarushcommunity.jrtb.dto.GroupInfo;
+import com.github.javarushcommunity.jrtb.dto.GroupRequestArgs;
+import com.github.javarushcommunity.jrtb.dto.GroupsCountRequestArgs;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
-import static com.github.javarushcommunity.jrtb.javarushclient.dto.GroupInfoType.TECH;
+import static com.github.javarushcommunity.jrtb.dto.GroupInfoType.TECH;
 
 @DisplayName("Integration-level testing for JavaRushGroupClientImplTest")
 public class JavaRushGroupClientTest {

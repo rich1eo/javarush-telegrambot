@@ -1,10 +1,9 @@
 package com.github.javarushcommunity.jrtb.javarushclient;
 
-import com.github.javarushcommunity.jrtb.javarushclient.dto.PostInfo;
+import com.github.javarushcommunity.jrtb.dto.PostInfo;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.testng.asserts.Assertion;
 
 import java.util.List;
 

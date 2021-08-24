@@ -1,4 +1,4 @@
-package com.github.javarushcommunity.jrtb.javarushclient.dto;
+package com.github.javarushcommunity.jrtb.dto;
 
 /**
  * DTO, which represents like's information.

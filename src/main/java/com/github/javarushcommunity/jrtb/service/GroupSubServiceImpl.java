@@ -1,7 +1,7 @@
 package com.github.javarushcommunity.jrtb.service;
 
 import com.github.javarushcommunity.jrtb.javarushclient.JavaRushGroupClient;
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupDiscussionInfo;
+import com.github.javarushcommunity.jrtb.dto.GroupDiscussionInfo;
 import com.github.javarushcommunity.jrtb.repository.GroupSubRepository;
 import com.github.javarushcommunity.jrtb.repository.entity.GroupSub;
 import com.github.javarushcommunity.jrtb.repository.entity.TelegramUser;

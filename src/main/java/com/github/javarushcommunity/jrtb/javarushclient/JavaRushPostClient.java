@@ -1,6 +1,6 @@
 package com.github.javarushcommunity.jrtb.javarushclient;
 
-import com.github.javarushcommunity.jrtb.javarushclient.dto.PostInfo;
+import com.github.javarushcommunity.jrtb.dto.PostInfo;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
 package com.github.javarushcommunity.jrtb.service;
 
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupDiscussionInfo;
+import com.github.javarushcommunity.jrtb.dto.GroupDiscussionInfo;
 import com.github.javarushcommunity.jrtb.repository.entity.GroupSub;
 
 import java.util.List;

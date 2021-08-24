@@ -1,7 +1,7 @@
 package com.github.javarushcommunity.jrtb.service;
 
 import com.github.javarushcommunity.jrtb.javarushclient.JavaRushPostClient;
-import com.github.javarushcommunity.jrtb.javarushclient.dto.PostInfo;
+import com.github.javarushcommunity.jrtb.dto.PostInfo;
 import com.github.javarushcommunity.jrtb.repository.entity.GroupSub;
 import com.github.javarushcommunity.jrtb.repository.entity.TelegramUser;
 import org.springframework.beans.factory.annotation.Autowired;

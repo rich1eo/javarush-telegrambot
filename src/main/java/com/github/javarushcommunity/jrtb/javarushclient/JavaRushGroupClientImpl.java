@@ -1,6 +1,6 @@
 package com.github.javarushcommunity.jrtb.javarushclient;
 
-import com.github.javarushcommunity.jrtb.javarushclient.dto.*;
+import com.github.javarushcommunity.jrtb.dto.*;
 import kong.unirest.GenericType;
 import kong.unirest.Unirest;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,4 +1,4 @@
-package com.github.javarushcommunity.jrtb.javarushclient.dto;
+package com.github.javarushcommunity.jrtb.dto;
 
 /*
 * Group Info Type;

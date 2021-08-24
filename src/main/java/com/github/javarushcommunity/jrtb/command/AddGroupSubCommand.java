@@ -1,8 +1,8 @@
 package com.github.javarushcommunity.jrtb.command;
 
 import com.github.javarushcommunity.jrtb.javarushclient.JavaRushGroupClient;
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupDiscussionInfo;
-import com.github.javarushcommunity.jrtb.javarushclient.dto.GroupRequestArgs;
+import com.github.javarushcommunity.jrtb.dto.GroupDiscussionInfo;
+import com.github.javarushcommunity.jrtb.dto.GroupRequestArgs;
 import com.github.javarushcommunity.jrtb.repository.entity.GroupSub;
 import com.github.javarushcommunity.jrtb.service.GroupSubService;
 import com.github.javarushcommunity.jrtb.service.SendBotMessageService;
